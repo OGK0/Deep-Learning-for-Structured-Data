@@ -1,7 +1,7 @@
 # Deep-Learning-for-Structured-Data
 Deep Learning Models for Structured (Tabular) Data
 
-Results from Lending Club (numeric & categorical data):
+Interpretability Results from Lending Club (numeric & categorical data):
 
 ![SHAP_Lending_Club_Beeswarm](https://user-images.githubusercontent.com/33669038/131041349-17082403-ddc5-4227-a071-abde28650de1.png)
 
